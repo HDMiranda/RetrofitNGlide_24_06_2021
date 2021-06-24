@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitNGlide_24_06_2021</string>
+    <string name="Background">BackgroundImage</string>
+    <string name="Avatar">Avatar</string>
+    <string name="ReposTitle">Repositories</string>
+    <string name="btSearch">Search</string>
+    <string name="etUsername">Add username</string>
+</resources>

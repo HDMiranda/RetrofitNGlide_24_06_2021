@@ -1,0 +1,2 @@
+rootProject.name = "RetrofitNGlide_24_06_2021"
+include ':app'
